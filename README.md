@@ -6,22 +6,6 @@
 
 </div>
 
-## 🧠 Sobre Mim
-
-```python
-class DiegoDeCavalho:
-    def __init__(self):
-        self.nome = "Diego de Carvalho"
-        self.area = "Data Science & Machine Learning"
-        self.interesses = ["Análise de Dados", "Redes Neurais", "Visão Computacional"]
-        self.aprendendo = ["Deep Learning", "MLOps", "Engenharia de Dados"]
-    
-    def objetivo(self):
-        return "Transformar dados brutos em soluções inteligentes 🚀"
-```
-
-<br>
-
 ## ⚡ Tecnologias & Ferramentas
 
 <div align="center">
@@ -50,11 +34,11 @@ class DiegoDeCavalho:
 <div align="center">
 
 <a href="https://github.com/DiamondDust01/CIFAR10_CNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondDust01&repo=CIFAR10_CNN&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DiamondDust01&repo=CIFAR10_CNN&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/DiamondDust01/obi-quest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 
 </div>
@@ -65,8 +49,8 @@ class DiegoDeCavalho:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiamondDust01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiamondDust01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
 
 <br><br>
 
@@ -89,11 +73,5 @@ class DiegoDeCavalho:
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DiamondDust01&color=1f6feb&style=for-the-badge&label=VISITANTES" />
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
