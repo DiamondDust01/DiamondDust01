@@ -76,28 +76,21 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/github-motion.svg" alt="Animação de barras: explorando, aprendendo e construindo" />
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDiamondDust01&query=%24.public_repos&label=REPOSIT%C3%93RIOS%20P%C3%9ABLICOS&color=2563EB&style=for-the-badge" alt="Quantidade de repositórios públicos" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <a href="https://github.com/DiamondDust01"><img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS%20P%C3%9ABLICOS-4-2563EB?style=for-the-badge" alt="4 repositórios públicos" />
+</p>
+
+<br><br>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
+</p>
 
 </div>
 
