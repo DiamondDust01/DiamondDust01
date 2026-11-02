@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/profile-waves.svg" alt="Cabeçalho de Diego de Carvalho com ondas animadas azuis e roxas" />
+<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/profile-moon.svg" alt="Cabeçalho de Diego de Carvalho com ondas azuis e roxas e lua cheia" />
 
 <br>
 
