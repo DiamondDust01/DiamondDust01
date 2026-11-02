@@ -22,8 +22,8 @@
 
 <div align="center">
 
-<img width="55%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg" alt="Exemplos de código iniciais em Python, JavaScript, C#, C++, C, Java, HTML, CSS e SQL, com destaque animado" />
-<img width="40%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=6" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
+<img width="64%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg" alt="Exemplos de código iniciais em Python, JavaScript, C#, C++, C, Java, HTML, CSS e SQL, com destaque animado" />
+<img width="40%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=4" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
 
 <br>
 
@@ -62,8 +62,8 @@
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=flat-square&color=64748B&label=visitas" alt="Visitas ao perfil" />
 </p>
 
 </div>
