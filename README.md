@@ -24,7 +24,7 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/about-network.svg" alt="Rede animada de dados e ideias conectadas" />
+<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/about-panels.svg" alt="Painéis animados de dados e analytics, machine learning e desenvolvimento" />
 
 </div>
 
