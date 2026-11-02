@@ -1,62 +1,99 @@
-<div align="center">
-
-# Diego de Carvalho
-
-**Data Science · Machine Learning · Analytics**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-
-</div>
-
----
-
-### 👋 About Me
-
-I'm a Data Science and Machine Learning enthusiast passionate about turning data into actionable insights. I enjoy working across the full analytics pipeline — from data wrangling and exploratory analysis to building and deploying predictive models.
-
-- 🔬 Currently exploring **Machine Learning** and **Data Science** projects
-- 📊 Focused on building data-driven solutions
-- 🎯 Always looking to learn and collaborate on interesting problems
-
----
-
-### 🛠️ Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Diego%20de%20Carvalho&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Libraries & Tools**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+> *"Os dados são o novo petróleo, mas como o petróleo, precisam ser refinados para gerar valor."*
 
 </div>
 
----
+## 🧠 Sobre Mim
 
-### 📈 GitHub Stats
+```python
+class DiegoDeCavalho:
+    def __init__(self):
+        self.nome = "Diego de Carvalho"
+        self.area = "Data Science & Machine Learning"
+        self.interesses = ["Análise de Dados", "Redes Neurais", "Visão Computacional"]
+        self.aprendendo = ["Deep Learning", "MLOps", "Engenharia de Dados"]
+    
+    def objetivo(self):
+        return "Transformar dados brutos em soluções inteligentes 🚀"
+```
+
+<br>
+
+## ⚡ Tecnologias & Ferramentas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DiamondDust01&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=default&hide_border=true" height="165" />
+### Linguagens
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,c,html,css&theme=dark" />
+
+### Ferramentas & Bibliotecas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 
 </div>
 
----
+<br>
+
+## 🚀 Projetos em Destaque
 
 <div align="center">
-  <sub>📫 Feel free to reach out for collaborations or just a chat about data!</sub>
+
+<a href="https://github.com/DiamondDust01/CIFAR10_CNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondDust01&repo=CIFAR10_CNN&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/DiamondDust01/obi-quest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+</a>
+
 </div>
+
+<br>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiamondDust01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DiamondDust01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&locale=pt_BR" />
+
+</div>
+
+<br>
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DiamondDust01&color=1f6feb&style=for-the-badge&label=VISITANTES" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
