@@ -26,7 +26,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=6" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -60,8 +60,6 @@
   <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS%20P%C3%9ABLICOS-4-2563EB?style=for-the-badge" alt="4 repositórios públicos" />
 </p>
 
-<br><br>
-
 <p align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
 </p>
@@ -71,8 +69,6 @@
 </p>
 
 </div>
-
-<br>
 
 <div align="center">
 
