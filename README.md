@@ -60,7 +60,7 @@
 </p>
 
 <p align="right">
-  <kbd><img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=flat&color=0D1117&label=VISITAS&labelColor=0D1117" alt="Visitas ao perfil" /></kbd>
+  <img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=flat&color=0D1117&label=VISITAS&labelColor=0D1117" alt="Visitas ao perfil" />
 </p>
 
 </div>
