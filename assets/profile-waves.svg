@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Diego de Carvalho</title>
+  <desc id="description">Ondas animadas em azul e roxo sobre fundo escuro.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#17133b"/>
+    </linearGradient>
+    <linearGradient id="blueWave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="purpleWave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <circle cx="990" cy="68" r="118" fill="#7c3aed" opacity=".12"/>
+  <circle cx="170" cy="64" r="105" fill="#2563eb" opacity=".12"/>
+  <path fill="url(#purpleWave)" opacity=".55"
+    d="M0 176 C150 116 300 228 450 176 S750 118 900 176 S1050 230 1200 168 V280 H0 Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M0 176 C150 116 300 228 450 176 S750 118 900 176 S1050 230 1200 168 V280 H0 Z;M0 160 C150 220 300 106 450 160 S750 230 900 160 S1050 110 1200 178 V280 H0 Z;M0 176 C150 116 300 228 450 176 S750 118 900 176 S1050 230 1200 168 V280 H0 Z"/>
+  </path>
+  <path fill="url(#blueWave)" opacity=".72"
+    d="M0 208 C150 152 300 250 450 208 S750 156 900 208 S1050 244 1200 198 V280 H0 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 208 C150 152 300 250 450 208 S750 156 900 208 S1050 244 1200 198 V280 H0 Z;M0 194 C150 254 300 150 450 194 S750 250 900 194 S1050 152 1200 214 V280 H0 Z;M0 208 C150 152 300 250 450 208 S750 156 900 208 S1050 244 1200 198 V280 H0 Z"/>
+  </path>
+  <text x="600" y="106" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle" letter-spacing="2">DIEGO DE CARVALHO</text>
+  <text x="600" y="145" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17" text-anchor="middle" letter-spacing="3">CIÊNCIA DE DADOS  ·  MACHINE LEARNING  ·  ANALYTICS</text>
+</svg>
