@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 280" role="img" aria-labelledby="title description">
+  <title id="title">Começos de código em nove linguagens</title>
+  <desc id="description">Exemplos simples de Python, JavaScript, C#, C++, C, Java, HTML, CSS e SQL; cada linha é destacada em sequência.</desc>
+  <rect x="2" y="2" width="1096" height="276" rx="14" fill="#111827" stroke="#293548" stroke-width="2"/>
+  <path d="M3 43 H1097" stroke="#293548" stroke-width="1"/>
+  <circle cx="25" cy="23" r="5" fill="#fb7185"/>
+  <circle cx="43" cy="23" r="5" fill="#fbbf24"/>
+  <circle cx="61" cy="23" r="5" fill="#34d399"/>
+  <text x="550" y="28" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="middle" letter-spacing="2">PRIMEIROS PASSOS · 9 LINGUAGENS</text>
+
+  <rect x="18" y="51" width="1064" height="23" rx="5" fill="#38bdf8" opacity=".1">
+    <animate attributeName="y" values="51;74;97;120;143;166;189;212;235;51" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Cascadia Code, Consolas, monospace" font-size="13">
+    <text x="34" y="68" fill="#7dd3fc">Python</text>
+    <text x="180" y="68" fill="#e2e8f0">print("Olá, mundo!")</text>
+
+    <text x="34" y="91" fill="#facc15">JavaScript</text>
+    <text x="180" y="91" fill="#e2e8f0">console.log("Olá, mundo!");</text>
+
+    <text x="34" y="114" fill="#c084fc">C#</text>
+    <text x="180" y="114" fill="#e2e8f0">Console.WriteLine("Olá, mundo!");</text>
+
+    <text x="34" y="137" fill="#67e8f9">C++</text>
+    <text x="180" y="137" fill="#e2e8f0">std::cout &lt;&lt; "Olá, mundo!";</text>
+
+    <text x="34" y="160" fill="#93c5fd">C</text>
+    <text x="180" y="160" fill="#e2e8f0">printf("Olá, mundo!");</text>
+
+    <text x="34" y="183" fill="#fb923c">Java</text>
+    <text x="180" y="183" fill="#e2e8f0">System.out.println("Olá, mundo!");</text>
+
+    <text x="34" y="206" fill="#f97316">HTML</text>
+    <text x="180" y="206" fill="#e2e8f0">&lt;h1&gt;Olá, mundo!&lt;/h1&gt;</text>
+
+    <text x="34" y="229" fill="#60a5fa">CSS</text>
+    <text x="180" y="229" fill="#e2e8f0">body { color: #38bdf8; }</text>
+
+    <text x="34" y="252" fill="#a78bfa">SQL</text>
+    <text x="180" y="252" fill="#e2e8f0">SELECT 'Olá, mundo!';</text>
+  </g>
+</svg>
