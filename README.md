@@ -4,6 +4,12 @@
 
 <br>
 
+<a href="https://github.com/DiamondDust01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Explorando+dados+e+descobrindo+padr%C3%B5es;Transformando+curiosidade+em+conhecimento;Python+%7C+Machine+Learning+%7C+Analytics" alt="Frases animadas: explorando dados, transformando curiosidade em conhecimento e machine learning" />
+</a>
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-DiamondDust01-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiamondDust01)
 &nbsp;
 [![Ciência de Dados](https://img.shields.io/badge/FOCO-CI%C3%8ANCIA%20DE%20DADOS-2563EB?style=for-the-badge)](https://github.com/DiamondDust01)
