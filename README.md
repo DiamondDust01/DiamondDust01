@@ -24,9 +24,7 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <div align="center">
 
-| 🔎 Explorando | 🧠 Aprendendo | 🛠️ Construindo |
-|:---:|:---:|:---:|
-| Dados e analytics | Machine learning | Projetos com tecnologia |
+<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/about-journey.svg" alt="Jornada animada da curiosidade ao aprendizado e aos projetos" />
 
 </div>
 
