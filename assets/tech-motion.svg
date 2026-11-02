@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 86" role="img" aria-labelledby="title description">
+  <title id="title">Tecnologias em movimento</title>
+  <desc id="description">Destaque animado para dados, programação e machine learning.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <path d="M92 60 H1008" stroke="#1e293b" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 60 H1008" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="90 826">
+    <animate attributeName="stroke-dashoffset" from="916" to="0" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <circle cy="60" r="6" fill="#38bdf8">
+    <animate attributeName="cx" values="92;1008;92" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="550" y="34" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle" letter-spacing="4">DADOS  ·  CÓDIGO  ·  MACHINE LEARNING</text>
+</svg>
