@@ -36,23 +36,15 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/01-PROJETO-2563EB?style=for-the-badge" alt="Projeto 1" />
-      <br><br>
-      <h3>✨ OBI Quest</h3>
-      <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Explora%C3%A7%C3%A3o%20e%20aprendizado-172554?style=flat-square" alt="Exploração e aprendizado" />
-      <br><br>
-      <a href="https://github.com/DiamondDust01/obi-quest"><strong>Conhecer o projeto&nbsp; ↗</strong></a>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/DiamondDust01/obi-quest">
+        <img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card.svg" alt="Cartão animado do projeto OBI Quest em JavaScript" />
+      </a>
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/02-PROJETO-7C3AED?style=for-the-badge" alt="Projeto 2" />
-      <br><br>
-      <h3>🌐 WebSite</h3>
-      <img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-      <img src="https://img.shields.io/badge/IFPI-1F2937?style=flat-square" alt="IFPI" />
-      <br><br>
-      <a href="https://github.com/DiamondDust01/WebSite"><strong>Conhecer o projeto&nbsp; ↗</strong></a>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/DiamondDust01/WebSite">
+        <img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card.svg" alt="Cartão animado do projeto WebSite do IFPI" />
+      </a>
     </td>
   </tr>
 </table>
@@ -62,6 +54,8 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 ## 🧰 Tecnologias
 
 <div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-motion.svg" alt="Destaque animado para dados, código e machine learning" />
 
 <img src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=6" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
 
@@ -79,6 +73,8 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 ## 📈 Meu GitHub
 
 <div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/github-motion.svg" alt="Animação de barras: explorando, aprendendo e construindo" />
 
 <a href="https://github.com/DiamondDust01">
   <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
