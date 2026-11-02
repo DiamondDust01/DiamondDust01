@@ -44,9 +44,9 @@
 <div align="center">
   <a href="https://github.com/DiamondDust01/ercemapi">
     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/ercemapi-featured-card-v2.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/ercemapi-featured-card-light-v2.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/ercemapi-featured-card-light-v2.svg" alt="Cartão do ERCEMAPI em tema claro" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/ercemapi-featured-card-v3.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/ercemapi-featured-card-light-v3.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/ercemapi-featured-card-light-v3.svg" alt="Cartão do ERCEMAPI em tema claro" />
 </picture>
   </a>
   <a href="https://github.com/DiamondDust01/visao-quimica">
