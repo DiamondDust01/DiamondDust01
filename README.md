@@ -34,31 +34,28 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-PROJETO-2563EB?style=for-the-badge" alt="Projeto 1" />
-
-### ✨ OBI Quest
-
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Explora%C3%A7%C3%A3o%20e%20aprendizado-172554?style=flat-square" alt="Exploração e aprendizado" />
-
-<br><br>
-
-[**Conhecer o OBI Quest&nbsp; ↗**](https://github.com/DiamondDust01/obi-quest)
-
-<br>
-
----
-
-<img src="https://img.shields.io/badge/02-PROJETO-7C3AED?style=for-the-badge" alt="Projeto 2" />
-
-### 🌐 WebSite
-
-<img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-<img src="https://img.shields.io/badge/IFPI-1F2937?style=flat-square" alt="IFPI" />
-
-<br><br>
-
-[**Conhecer o WebSite&nbsp; ↗**](https://github.com/DiamondDust01/WebSite)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/01-PROJETO-2563EB?style=for-the-badge" alt="Projeto 1" />
+      <br><br>
+      <h3>✨ OBI Quest</h3>
+      <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Explora%C3%A7%C3%A3o%20e%20aprendizado-172554?style=flat-square" alt="Exploração e aprendizado" />
+      <br><br>
+      <a href="https://github.com/DiamondDust01/obi-quest"><strong>Conhecer o projeto&nbsp; ↗</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/02-PROJETO-7C3AED?style=for-the-badge" alt="Projeto 2" />
+      <br><br>
+      <h3>🌐 WebSite</h3>
+      <img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/IFPI-1F2937?style=flat-square" alt="IFPI" />
+      <br><br>
+      <a href="https://github.com/DiamondDust01/WebSite"><strong>Conhecer o projeto&nbsp; ↗</strong></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
