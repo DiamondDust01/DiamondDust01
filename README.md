@@ -61,7 +61,7 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=flat&color=64748B&label=" alt="Visitas ao perfil" />
+  <img height="14" src="https://komarev.com/ghpvc/?username=DiamondDust01&style=flat&color=64748B&label=" alt="Visitas ao perfil" />
 </p>
 
 </div>
