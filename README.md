@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=210&section=header&text=Diego%20de%20Carvalho&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Ci%C3%AAncia%20de%20Dados%20%20%E2%80%A2%20%20Machine%20Learning%20%20%E2%80%A2%20%20Analytics&descSize=16&descAlignY=60&descColor=DBEAFE" alt="Cabeçalho azul com o nome Diego de Carvalho e suas áreas de interesse" />
-
-<a href="https://github.com/DiamondDust01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Explorando+dados+e+criando+solu%C3%A7%C3%B5es;Python+%7C+Machine+Learning+%7C+Analytics" alt="Explorando dados e criando soluções" />
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/profile-waves.svg" alt="Cabeçalho de Diego de Carvalho com ondas animadas azuis e roxas" />
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DiamondDust01-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiamondDust01)
+&nbsp;
+[![Ciência de Dados](https://img.shields.io/badge/FOCO-CI%C3%8ANCIA%20DE%20DADOS-2563EB?style=for-the-badge)](https://github.com/DiamondDust01)
 
 </div>
 
@@ -30,12 +28,34 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <div align="center">
 
-<a href="https://github.com/DiamondDust01/obi-quest">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=tokyonight&hide_border=true" alt="Projeto OBI Quest" />
-</a>
-<a href="https://github.com/DiamondDust01/WebSite">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=tokyonight&hide_border=true" alt="Projeto WebSite" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DiamondDust01/obi-quest">
+        <img src="https://img.shields.io/badge/01-%E2%9C%A8%20OBI%20QUEST-2563EB?style=for-the-badge" alt="Projeto 1: OBI Quest" />
+        <br><br>
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=tokyonight&hide_border=true" alt="Cartão do projeto OBI Quest" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Projeto%20de%20programa%C3%A7%C3%A3o-2563EB?style=flat-square" alt="Projeto de programação" />
+      <br>
+      <a href="https://github.com/DiamondDust01/obi-quest">↗ Explorar repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DiamondDust01/WebSite">
+        <img src="https://img.shields.io/badge/02-%F0%9F%8C%90%20WEBSITE-7C3AED?style=for-the-badge" alt="Projeto 2: WebSite" />
+        <br><br>
+        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=tokyonight&hide_border=true" alt="Cartão do projeto WebSite" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/IFPI-1F2937?style=flat-square" alt="Projeto do IFPI" />
+      <br>
+      <a href="https://github.com/DiamondDust01/WebSite">↗ Explorar repositório</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -56,16 +76,23 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 </div>
 
-## 📈 GitHub em números
+## 📈 Meu GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiamondDust01&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<a href="https://github.com/DiamondDust01">
+  <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDiamondDust01&query=%24.public_repos&label=REPOSIT%C3%93RIOS%20P%C3%9ABLICOS&color=2563EB&style=for-the-badge" alt="Quantidade de repositórios públicos" />
+
+<br><br>
+
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
 
 <br>
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=DiamondDust01&style=flat-square&color=1D4ED8&label=visitas+ao+perfil)
+[![VISITAS AO PERFIL](https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL)](https://github.com/DiamondDust01)
 
 </div>
 
@@ -73,8 +100,8 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <div align="center">
 
-*Valeu pela visita — fique à vontade para explorar meus projetos!* ✨
+*Cada projeto é um passo a mais na jornada de transformar curiosidade em conhecimento. Obrigado por chegar até aqui!* 💙
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer&animation=fadeIn" alt="" />
 
 </div>
