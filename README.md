@@ -57,7 +57,7 @@
 </p>
 
 <p align="right">
-  <img width="20" height="20" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/visit-mark.svg" alt="" />&nbsp;<img align="middle" src="https://komarev.com/ghpvc/?username=DiamondDust01&style=flat-square&color=0D1117&label=VISITAS&labelColor=0D1117" alt="Visitas ao perfil" />
+  <img width="28" height="28" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/visit-mark.svg" alt="" />&nbsp;<img align="middle" src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=7C3AED&label=VISITAS&labelColor=161B22" alt="Visitas ao perfil" />
 </p>
 
 </div>
