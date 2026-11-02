@@ -52,8 +52,6 @@
 
 <div align="center">
 
-<img width="600" height="74" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/github-digital-speed.svg" alt="Texto Ideias em movimento acima de uma velocidade digital alta que varia como um velocímetro" />
-
 <p align="center">
   <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
   &nbsp;
