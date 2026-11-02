@@ -42,7 +42,7 @@
 ## 🚀 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/DiamondDust01/obi-quest">
+  <a href="https://github.com/DiamondDust01/ercemapi">
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg" />
