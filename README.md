@@ -49,11 +49,11 @@
   <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg" alt="Cartão do OBI Quest em tema claro" />
 </picture>
   </a>
-  <a href="https://github.com/DiamondDust01/WebSite">
+  <a href="https://github.com/DiamondDust01/visao-quimica">
     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card-light.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card-light.svg" alt="Cartão do WebSite do IFPI em tema claro" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/visao-quimica-card.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/visao-quimica-card-light.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/visao-quimica-card-light.svg" alt="Cartão da Visão Química em tema claro" />
 </picture>
   </a>
 </div>
