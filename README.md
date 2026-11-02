@@ -20,19 +20,16 @@
 
 ## 💻 Tecnologias
 
-<div align="center">
-
+<p align="center">
 <img width="64%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg" alt="Exemplos de código iniciais em Python, JavaScript, C#, C++, C, Java, HTML, CSS e SQL, com destaque animado" />
 <img width="24%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=4" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
 
-<p align="center"><img width="1" height="8" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/spacing.svg" alt="" /></p>
+</p>
 
 <p align="center"><em>Bibliotecas para análise de dados, machine learning e visualização</em></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 </p>
-
-</div>
 
 ## 🚀 Projetos em destaque
 
