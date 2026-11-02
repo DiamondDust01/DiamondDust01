@@ -1,20 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1f6feb&height=200&section=header&text=Diego%20de%20Carvalho&fontSize=42&fontColor=e6edf3&animation=fadeIn&stroke=1f6feb" />
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,3,12,19,27&height=180&section=header&text=&fontSize=1" width="100%" />
+
+<br>
+
+<a href="https://github.com/DiamondDust01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Diego+de+Carvalho;Data+Science+%7C+Machine+Learning" alt="Typing SVG" />
+</a>
 
 > *"Os dados são o novo petróleo, mas como o petróleo, precisam ser refinados para gerar valor."*
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## ⚡ Tecnologias & Ferramentas
 
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=js,python,cs,cpp,c,java,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,cs,cpp,c,java,html,css&theme=dark&perline=8" />
 
-### Ferramentas & Bibliotecas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark&perline=4" />
 
 <br><br>
 
@@ -27,40 +35,38 @@
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Projetos em Destaque
 
 <div align="center">
 
 <a href="https://github.com/DiamondDust01/obi-quest">
-  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=radical&hide_border=true" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/DiamondDust01/WebSite">
-  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=radical&hide_border=true" />
 </a>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 Estatísticas
 
 <div align="center">
 
-<img width="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
+<img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=donut&theme=radical&hide_border=true&locale=pt-br" />
+&nbsp;&nbsp;
+<img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiamondDust01&theme=radical" />
 
 <br><br>
 
-<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiamondDust01&theme=github_dark" />
-
-<br><br>
-
-<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiamondDust01&theme=github_dark" />
-&nbsp;
-<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiamondDust01&theme=github_dark" />
+<img width="790" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiamondDust01&theme=radical" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1f6feb&height=150&section=footer&stroke=1f6feb" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=27,19,12,3,2&height=120&section=footer&text=&fontSize=1&reversal=true" width="100%" />
