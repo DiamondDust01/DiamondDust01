@@ -22,8 +22,8 @@
 
 <div align="center">
 
-<img width="53%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg" alt="Exemplos de código iniciais em Python, JavaScript, C#, C++, C, Java, HTML, CSS e SQL, com destaque animado" />
-<img width="40%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=4" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
+<img width="55%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg" alt="Exemplos de código iniciais em Python, JavaScript, C#, C++, C, Java, HTML, CSS e SQL, com destaque animado" />
+<img width="40%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=6" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
 
 <br>
 
