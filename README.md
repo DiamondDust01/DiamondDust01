@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
@@ -61,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
 </p>
 
 <p align="center">
