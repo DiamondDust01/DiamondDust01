@@ -59,15 +59,13 @@
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
 </p>
 
-</div>
-
-<p align="center">
-  <em>Cada projeto é um passo a mais na jornada de transformar curiosidade em conhecimento. Obrigado por chegar até aqui!</em></p>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=flat-square&color=7C3AED&label=VISITAS&labelColor=1E293B" alt="Visitas ao perfil" />
 </p>
 
+</div>
+
 <p align="center">
+  <em>Cada projeto é um passo a mais na jornada de transformar curiosidade em conhecimento. Obrigado por chegar até aqui!</em><br>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer&animation=fadeIn" alt="" />
 </p>
