@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 126" role="img" aria-labelledby="title description">
+  <title id="title">Minha jornada de aprendizado</title>
+  <desc id="description">Curiosidade leva à exploração, que vira aprendizado e então projetos.</desc>
+  <defs>
+    <linearGradient id="path" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="52%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path d="M170 49 H730" stroke="#263449" stroke-width="2" stroke-linecap="round"/>
+  <path d="M170 49 H730" stroke="url(#path)" stroke-width="2" stroke-linecap="round" stroke-dasharray="560" stroke-dashoffset="560">
+    <animate attributeName="stroke-dashoffset" values="560;0;0;560" keyTimes="0;.65;.85;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <circle cx="170" cy="49" r="13" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="450" cy="49" r="13" fill="#111827" stroke="#818cf8" stroke-width="2"/>
+    <circle cx="730" cy="49" r="13" fill="#111827" stroke="#c084fc" stroke-width="2"/>
+    <circle cx="170" cy="49" r="5" fill="#38bdf8">
+      <animate attributeName="r" values="4;8;4" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".65;1;.65" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="49" r="5" fill="#818cf8">
+      <animate attributeName="r" values="4;8;4" begin="2s" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".65;1;.65" begin="2s" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="730" cy="49" r="5" fill="#c084fc">
+      <animate attributeName="r" values="4;8;4" begin="4s" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".65;1;.65" begin="4s" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="5" fill="#f8fafc" filter="url(#glow)">
+      <animate attributeName="cx" values="170;450;730;170" keyTimes="0;.333;.666;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="49;49;49;49" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="170" y="91" fill="#7dd3fc" font-size="15" font-weight="600">CURIOSIDADE</text>
+    <text x="170" y="111" fill="#94a3b8" font-size="12">Explorar ideias</text>
+    <text x="450" y="91" fill="#a5b4fc" font-size="15" font-weight="600">APRENDIZADO</text>
+    <text x="450" y="111" fill="#94a3b8" font-size="12">Descobrir padrões</text>
+    <text x="730" y="91" fill="#d8b4fe" font-size="15" font-weight="600">PROJETOS</text>
+    <text x="730" y="111" fill="#94a3b8" font-size="12">Transformar ideias</text>
+  </g>
+</svg>
