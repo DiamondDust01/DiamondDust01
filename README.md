@@ -11,7 +11,7 @@
 <div align="center">
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,c,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,cs,cpp,c,java,html,css&theme=dark" />
 
 ### Ferramentas & Bibliotecas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
@@ -33,12 +33,12 @@
 
 <div align="center">
 
-<a href="https://github.com/DiamondDust01/CIFAR10_CNN">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=CIFAR10_CNN&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
 <a href="https://github.com/DiamondDust01/obi-quest">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/DiamondDust01/WebSite">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 
 </div>
@@ -49,12 +49,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiamondDust01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DiamondDust01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&locale=pt_BR" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiamondDust01&theme=github_dark" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiamondDust01&theme=github_dark" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiamondDust01&theme=github_dark" />
 
 </div>
 
@@ -72,6 +77,4 @@
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=150&section=footer&reversal=true" />
