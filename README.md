@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/DiamondDust01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Explorando+dados+e+descobrindo+padr%C3%B5es;Transformando+curiosidade+em+conhecimento;Python+%7C+Machine+Learning+%7C+Analytics" alt="Frases animadas: explorando dados, transformando curiosidade em conhecimento e machine learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Explorando+dados+e+descobrindo+padr%C3%B5es;Transformando+curiosidade+em+conhecimento;Python+%7C+Machine+Learning+%7C+Analytics;Aprendendo%2C+experimentando+e+evoluindo;Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo+e+criatividade;Cada+conjunto+de+dados+conta+uma+hist%C3%B3ria;Inova%C3%A7%C3%A3o+atrav%C3%A9s+de+dados+e+tecnologia" alt="Frases animadas sobre dados, criatividade, aprendizado e tecnologia" />
 </a>
 
 <br>
