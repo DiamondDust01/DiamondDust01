@@ -88,7 +88,7 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 </p>
 
 <p align="center">
-[![VISITAS AO PERFIL](https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL)](https://github.com/DiamondDust01)
+  <a href="https://github.com/DiamondDust01"><img src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" /></a>
 </p>
 
 </div>
