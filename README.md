@@ -34,11 +34,11 @@
 <div align="center">
 
 <a href="https://github.com/DiamondDust01/CIFAR10_CNN">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DiamondDust01&repo=CIFAR10_CNN&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=CIFAR10_CNN&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/DiamondDust01/obi-quest">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 
 </div>
@@ -49,8 +49,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiamondDust01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiamondDust01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
 
 <br><br>
 
