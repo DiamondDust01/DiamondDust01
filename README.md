@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img width="600" height="60" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/github-focus.svg" alt="Explorando, aprendendo e construindo: cada termo ganha destaque em sequência" />
+<img width="600" height="74" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/github-activity.svg" alt="Animação de uma trilha de desenvolvimento ligando explorar, construir e compartilhar" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
