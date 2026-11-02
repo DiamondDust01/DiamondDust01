@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Diego%20de%20Carvalho&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1f6feb&height=200&section=header&text=Diego%20de%20Carvalho&fontSize=42&fontColor=e6edf3&animation=fadeIn&stroke=1f6feb" />
 
 <div align="center">
 
@@ -34,11 +34,11 @@
 <div align="center">
 
 <a href="https://github.com/DiamondDust01/obi-quest">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/DiamondDust01/WebSite">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e" />
 </a>
 
 </div>
@@ -49,32 +49,18 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
+<img width="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&locale=pt-br" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiamondDust01&theme=github_dark" />
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiamondDust01&theme=github_dark" />
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiamondDust01&theme=github_dark" />
+<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiamondDust01&theme=github_dark" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiamondDust01&theme=github_dark" />
+<img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiamondDust01&theme=github_dark" />
 
 </div>
 
-<br>
-
-## 🐍 Minhas Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=150&section=footer&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=1f6feb&height=150&section=footer&stroke=1f6feb" />
