@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" role="img" aria-labelledby="title description">
+  <title id="title">Atividade no GitHub</title>
+  <desc id="description">Frase centralizada com um destaque animado sutil.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <text x="300" y="27" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="1.5">EXPLORANDO  ·  APRENDENDO  ·  CONSTRUINDO</text>
+  <rect x="205" y="43" width="190" height="2" rx="1" fill="#1e293b"/>
+  <rect x="205" y="43" width="38" height="2" rx="1" fill="url(#accent)">
+    <animate attributeName="x" values="205;357;205" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
