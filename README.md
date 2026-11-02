@@ -46,7 +46,7 @@
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg" alt="Cartão do OBI Quest em tema claro" />
+  <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg" alt="Cartão do ERCEMAPI em tema claro" />
 </picture>
   </a>
   <a href="https://github.com/DiamondDust01/visao-quimica">
