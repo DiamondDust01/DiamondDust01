@@ -31,10 +31,10 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 <div align="center">
 
 <a href="https://github.com/DiamondDust01/obi-quest">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=tokyonight&hide_border=true" alt="Projeto OBI Quest" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=tokyonight&hide_border=true" alt="Projeto OBI Quest" />
 </a>
 <a href="https://github.com/DiamondDust01/WebSite">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=tokyonight&hide_border=true" alt="Projeto WebSite" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=tokyonight&hide_border=true" alt="Projeto WebSite" />
 </a>
 
 </div>
@@ -60,8 +60,8 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DiamondDust01&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiamondDust01&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios" />
 
 <br>
 
