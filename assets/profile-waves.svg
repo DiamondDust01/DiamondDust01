@@ -14,13 +14,26 @@
       <stop offset="0%" stop-color="#7c3aed"/>
       <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
+    <radialGradient id="moon" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="75%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </radialGradient>
   </defs>
   <rect width="1200" height="280" rx="18" fill="url(#background)"/>
-  <path d="M1034 29 A42 42 0 1 0 1072 99 A34 34 0 0 1 1034 29 Z" fill="#f8fafc">
+  <circle cx="1050" cy="64" r="44" fill="#e0e7ff" opacity=".12">
+    <animate attributeName="r" values="44;49;44" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".08;.18;.08" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="64" r="37" fill="url(#moon)">
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="7s" repeatCount="indefinite"/>
-  </path>
-  <circle cx="1020" cy="57" r="4" fill="#dbeafe" opacity=".55"/>
-  <circle cx="1027" cy="83" r="3" fill="#dbeafe" opacity=".4"/>
+  </circle>
+  <g fill="#cbd5e1" opacity=".38">
+    <circle cx="1038" cy="54" r="5"/>
+    <circle cx="1059" cy="48" r="3.5"/>
+    <circle cx="1061" cy="72" r="6"/>
+    <circle cx="1043" cy="78" r="3"/>
+  </g>
   <path fill="url(#purpleWave)" opacity=".55"
     d="M0 176 C150 116 300 228 450 176 S750 118 900 176 S1050 230 1200 168 V280 H0 Z">
     <animate attributeName="d" dur="11s" repeatCount="indefinite"
