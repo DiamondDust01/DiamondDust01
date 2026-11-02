@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 280" role="img" aria-labelledby="title description">
+  <title id="title">WebSite</title>
+  <desc id="description">Cartão animado do projeto de site do IFPI.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f6f8fa"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8250df"/>
+      <stop offset="100%" stop-color="#bf3989"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="556" height="276" rx="20" fill="url(#card)" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="3" y="3" width="554" height="274" rx="19" fill="none" stroke="url(#accent)" stroke-width="3" stroke-dasharray="110 1550">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1660" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="474" cy="72" r="44" fill="#6d28d9" opacity=".12">
+    <animate attributeName="r" values="38;48;38" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".08;.2;.08" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="38" y="54" fill="#6639ba" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">PROJETO 02</text>
+  <text x="38" y="119" fill="#1f2328" font-family="Segoe UI, Arial, sans-serif" font-size="35" font-weight="700">🌐 WebSite</text>
+  <text x="40" y="158" fill="#57606a" font-family="Segoe UI, Arial, sans-serif" font-size="17">Projeto web do IFPI</text>
+  <rect x="38" y="190" width="91" height="32" rx="16" fill="#eaeef2"/>
+  <text x="83" y="211" fill="#6639ba" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">WEBSITE</text>
+  <rect x="139" y="190" width="70" height="32" rx="16" fill="#eaeef2"/>
+  <text x="174" y="211" fill="#6639ba" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">IFPI</text>
+  <text x="38" y="251" fill="#6639ba" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">EXPLORAR REPOSITÓRIO  ↗</text>
+</svg>
