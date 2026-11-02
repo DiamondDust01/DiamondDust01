@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img width="600" height="74" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/github-activity.svg" alt="Visualização abstrata animada de barras em azul e violeta representando ideias em movimento" />
+<img width="600" height="74" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/github-activity.svg?v=20261102-equalizer" alt="Visualização abstrata animada de barras em azul e violeta representando ideias em movimento" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
