@@ -28,7 +28,7 @@
     <animate attributeName="stroke-dashoffset" values="0;-90" dur="5s" repeatCount="indefinite"/>
   </circle>
   <g>
-    <animateTransform attributeName="transform" type="scale" values="1 1;1 .1;1 1;1 1" keyTimes="0;.035;.07;1" dur="5.4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="matrix" values="1 0 0 1 0 0;1 0 0 .08 0 20.24;1 0 0 1 0 0;1 0 0 1 0 0" keyTimes="0;.025;.05;1" dur="6.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;.35;1;1" keyTimes="0;.035;.07;1" dur="5.4s" repeatCount="indefinite"/>
     <path d="M8 22c3.5-5.3 8.15-8 14-8s10.5 2.7 14 8c-2.8 4.5-6.63 6.7-11.5 6.7S10.8 26.5 8 22Z" fill="#111827" stroke="url(#edge)" stroke-width="1.25"/>
     <g clip-path="url(#eye)">
