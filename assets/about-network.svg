@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" role="img" aria-labelledby="title description">
+  <title id="title">Ideias conectadas</title>
+  <desc id="description">Uma rede de dados pulsa e se conecta em torno de uma ideia central.</desc>
+  <defs>
+    <linearGradient id="links" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" stroke="url(#links)" stroke-width="1.5" stroke-linecap="round">
+    <path d="M253 42 L327 26 L390 50 L450 35 L510 50 L573 26 L647 42" opacity=".55"/>
+    <path d="M327 26 L350 67 L390 50 L414 78 L450 35 L486 78 L510 50 L550 67 L573 26" opacity=".4"/>
+    <path d="M350 67 L414 78 L450 35 L486 78 L550 67" opacity=".35"/>
+    <path d="M253 42 L300 77 L350 67 M647 42 L600 77 L550 67" opacity=".4"/>
+    <path d="M450 35 L450 78" opacity=".3"/>
+    <path d="M253 42 L327 26 L390 50 L450 35 L510 50 L573 26 L647 42" stroke-dasharray="7 180" stroke-width="3">
+      <animate attributeName="stroke-dashoffset" values="561;0" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.95;.1" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#111827" stroke-width="2">
+    <circle cx="253" cy="42" r="6" stroke="#38bdf8"/>
+    <circle cx="300" cy="77" r="4" stroke="#818cf8"/>
+    <circle cx="327" cy="26" r="5" stroke="#38bdf8"/>
+    <circle cx="350" cy="67" r="5" stroke="#a78bfa"/>
+    <circle cx="390" cy="50" r="7" stroke="#38bdf8"/>
+    <circle cx="414" cy="78" r="4" stroke="#a78bfa"/>
+    <circle cx="486" cy="78" r="4" stroke="#a78bfa"/>
+    <circle cx="510" cy="50" r="7" stroke="#38bdf8"/>
+    <circle cx="550" cy="67" r="5" stroke="#a78bfa"/>
+    <circle cx="573" cy="26" r="5" stroke="#38bdf8"/>
+    <circle cx="600" cy="77" r="4" stroke="#818cf8"/>
+    <circle cx="647" cy="42" r="6" stroke="#c084fc"/>
+    <circle cx="450" cy="78" r="4" stroke="#38bdf8"/>
+  </g>
+  <circle cx="450" cy="35" r="17" fill="#818cf8" opacity=".12">
+    <animate attributeName="r" values="14;22;14" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".08;.24;.08" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="35" r="8" fill="url(#core)">
+    <animate attributeName="r" values="7;9;7" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.5" fill="#f8fafc">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M253 42 L327 26 L390 50 L450 35 L510 50 L573 26 L647 42"/>
+  </circle>
+  <text x="450" y="106" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="3">IDEIAS SE CONECTAM. NOVOS CAMINHOS APARECEM.</text>
+</svg>
