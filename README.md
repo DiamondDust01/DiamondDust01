@@ -25,7 +25,7 @@
 <img width="64%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg" alt="Exemplos de código iniciais em Python, JavaScript, C#, C++, C, Java, HTML, CSS e SQL, com destaque animado" />
 <img width="24%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=4" alt="Python, JavaScript, C#, C++, C, Java, HTML, CSS, MySQL, Git, GitHub e VS Code" />
 
-&nbsp;
+<div align="center"><br></div>
 
 <p align="center"><em>Bibliotecas para análise de dados, machine learning e visualização</em></p>
 <p align="center">
