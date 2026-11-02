@@ -21,10 +21,16 @@
 ## 💻 Tecnologias
 
 <p align="center">
-<img width="64%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg#gh-dark-mode-only" alt="Exemplos de código em tema escuro" />
-<img width="64%" align="middle" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact-light.svg#gh-light-mode-only" alt="Exemplos de código em tema claro" />
-<img width="24%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=4#gh-dark-mode-only" alt="Ícones de tecnologias em tema escuro" />
-<img width="24%" align="middle" src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=light&perline=4#gh-light-mode-only" alt="Ícones de tecnologias em tema claro" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact-light.svg" />
+  <img width="64%" align="middle" / src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/tech-code-compact-light.svg" alt="Exemplos de código em tema claro" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=dark&perline=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=light&perline=4" />
+  <img width="24%" align="middle" / src="https://skillicons.dev/icons?i=python,js,cs,cpp,c,java,html,css,mysql,git,github,vscode&theme=light&perline=4" alt="Ícones de tecnologias em tema claro" />
+</picture>
 
 </p>
 
@@ -37,12 +43,18 @@
 
 <div align="center">
   <a href="https://github.com/DiamondDust01/obi-quest">
-    <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card.svg#gh-dark-mode-only" alt="Cartão do OBI Quest em tema escuro" />
-    <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg#gh-light-mode-only" alt="Cartão do OBI Quest em tema claro" />
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg" />
+  <img width="49%" / src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card-light.svg" alt="Cartão do OBI Quest em tema claro" />
+</picture>
   </a>
   <a href="https://github.com/DiamondDust01/WebSite">
-    <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card.svg#gh-dark-mode-only" alt="Cartão do WebSite do IFPI em tema escuro" />
-    <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card-light.svg#gh-light-mode-only" alt="Cartão do WebSite do IFPI em tema claro" />
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card-light.svg" />
+  <img width="49%" / src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card-light.svg" alt="Cartão do WebSite do IFPI em tema claro" />
+</picture>
   </a>
 </div>
 
@@ -57,19 +69,28 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br#gh-dark-mode-only" alt="Linguagens mais usadas em tema escuro" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&hide_border=true&border_radius=12&locale=pt-br#gh-light-mode-only" alt="Linguagens mais usadas em tema claro" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&hide_border=true&border_radius=12&locale=pt-br" />
+  <img height="170" / src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&hide_border=true&border_radius=12&locale=pt-br" alt="Linguagens mais usadas em tema claro" />
+</picture>
 </p>
 
 <p align="right">
-  <img align="middle" src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=8B5CF6&label=VISUALIZA%C3%87%C3%95ES&labelColor=111827#gh-dark-mode-only" alt="Visualizações em tema escuro" />
-  <img align="middle" src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=6D28D9&label=VISUALIZA%C3%87%C3%95ES&labelColor=57606A#gh-light-mode-only" alt="Visualizações em tema claro" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=8B5CF6&label=VISUALIZA%C3%87%C3%95ES&labelColor=111827" />
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=6D28D9&label=VISUALIZA%C3%87%C3%95ES&labelColor=57606A" />
+  <img align="middle" / src="https://komarev.com/ghpvc/?username=DiamondDust01&style=for-the-badge&color=6D28D9&label=VISUALIZA%C3%87%C3%95ES&labelColor=57606A" alt="Visualizações em tema claro" />
+</picture>
 </p>
 
 </div>
 
 <p align="center">
   <em>Cada projeto é um passo a mais na jornada de transformar curiosidade em conhecimento. Obrigado por chegar até aqui!</em><br>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer&animation=fadeIn#gh-dark-mode-only" alt="" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,50:DDD6FE,100:FFFFFF&height=100&section=footer&animation=fadeIn#gh-light-mode-only" alt="" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,50:DDD6FE,100:FFFFFF&height=100&section=footer&animation=fadeIn" />
+  <img width="100%" / src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,50:DDD6FE,100:FFFFFF&height=100&section=footer&animation=fadeIn" alt="" />
+</picture>
 </p>
