@@ -70,10 +70,7 @@
 
 </div>
 
-<div align="center">
-
-*Cada projeto é um passo a mais na jornada de transformar curiosidade em conhecimento. Obrigado por chegar até aqui!*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer&animation=fadeIn" alt="" />
-
-</div>
+<p align="center">
+  <em>Cada projeto é um passo a mais na jornada de transformar curiosidade em conhecimento. Obrigado por chegar até aqui!</em><br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=100&section=footer&animation=fadeIn" alt="" />
+</p>
