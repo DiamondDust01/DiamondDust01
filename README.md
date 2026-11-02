@@ -18,7 +18,7 @@
 
 <br>
 
-## ✦ Sobre mim
+## 🧭 Sobre mim
 
 Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pouco do que venho explorando em **ciência de dados**, **machine learning** e desenvolvimento.
 
@@ -34,34 +34,31 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/DiamondDust01/obi-quest">
-        <img src="https://img.shields.io/badge/01-%E2%9C%A8%20OBI%20QUEST-2563EB?style=for-the-badge" alt="Projeto 1: OBI Quest" />
-        <br><br>
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=obi-quest&theme=tokyonight&hide_border=true" alt="Cartão do projeto OBI Quest" />
-      </a>
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Projeto%20de%20programa%C3%A7%C3%A3o-2563EB?style=flat-square" alt="Projeto de programação" />
-      <br>
-      <a href="https://github.com/DiamondDust01/obi-quest">↗ Explorar repositório</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/DiamondDust01/WebSite">
-        <img src="https://img.shields.io/badge/02-%F0%9F%8C%90%20WEBSITE-7C3AED?style=for-the-badge" alt="Projeto 2: WebSite" />
-        <br><br>
-        <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DiamondDust01&repo=WebSite&theme=tokyonight&hide_border=true" alt="Cartão do projeto WebSite" />
-      </a>
-      <br>
-      <img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
-      <img src="https://img.shields.io/badge/IFPI-1F2937?style=flat-square" alt="Projeto do IFPI" />
-      <br>
-      <a href="https://github.com/DiamondDust01/WebSite">↗ Explorar repositório</a>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/01-PROJETO-2563EB?style=for-the-badge" alt="Projeto 1" />
+
+### ✨ OBI Quest
+
+<img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Explora%C3%A7%C3%A3o%20e%20aprendizado-172554?style=flat-square" alt="Exploração e aprendizado" />
+
+<br><br>
+
+[**Conhecer o OBI Quest&nbsp; ↗**](https://github.com/DiamondDust01/obi-quest)
+
+<br>
+
+---
+
+<img src="https://img.shields.io/badge/02-PROJETO-7C3AED?style=for-the-badge" alt="Projeto 2" />
+
+### 🌐 WebSite
+
+<img src="https://img.shields.io/badge/Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+<img src="https://img.shields.io/badge/IFPI-1F2937?style=flat-square" alt="IFPI" />
+
+<br><br>
+
+[**Conhecer o WebSite&nbsp; ↗**](https://github.com/DiamondDust01/WebSite)
 
 </div>
 
