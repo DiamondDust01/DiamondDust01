@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="32" viewBox="0 0 92 32">
+  <defs>
+    <filter id="transparent-dark" color-interpolation-filters="sRGB">
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0.2126 0.7152 0.0722 0 0" />
+    </filter>
+  </defs>
+  <image href="https://komarev.com/ghpvc/?username=DiamondDust01&amp;style=flat&amp;color=000000&amp;label=VISITAS&amp;labelColor=000000" x="4" y="6" width="84" height="20" preserveAspectRatio="xMidYMid meet" filter="url(#transparent-dark)" />
+  <rect x="0.75" y="0.75" width="90.5" height="30.5" rx="5" fill="none" stroke="#ffffff" stroke-width="1.5" />
+</svg>
