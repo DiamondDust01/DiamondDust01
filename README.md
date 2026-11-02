@@ -18,37 +18,6 @@
 
 <br>
 
-## 🧭 Sobre mim
-
-Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pouco do que venho explorando em **ciência de dados**, **machine learning** e desenvolvimento.
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/about-panels.svg" alt="Painéis animados de dados e analytics, machine learning e desenvolvimento" />
-
-</div>
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/DiamondDust01/obi-quest">
-        <img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card.svg" alt="Cartão animado do projeto OBI Quest em JavaScript" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/DiamondDust01/WebSite">
-        <img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card.svg" alt="Cartão animado do projeto WebSite do IFPI" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ## 🧰 Tecnologias
 
 <div align="center">
@@ -66,6 +35,17 @@ Gosto de tecnologia e de transformar ideias em projetos. Aqui compartilho um pou
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 
+</div>
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+  <a href="https://github.com/DiamondDust01/obi-quest">
+    <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/obi-quest-card.svg" alt="Cartão animado do projeto OBI Quest em JavaScript" />
+  </a>
+  <a href="https://github.com/DiamondDust01/WebSite">
+    <img width="49%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/website-card.svg" alt="Cartão animado do projeto WebSite do IFPI" />
+  </a>
 </div>
 
 ## 📈 Meu GitHub
