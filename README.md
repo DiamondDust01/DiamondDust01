@@ -70,10 +70,10 @@
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&hide_border=true&border_radius=12&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiamondDust01&layout=compact&theme=default&bg_color=ffffff&title_color=24292f&text_color=57606a&hide_border=true&border_radius=12&locale=pt-br" alt="Linguagens mais usadas em tema claro" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/top-langs-light.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/top-langs-light.svg" alt="Linguagens mais usadas" />
+  </picture>
 </p>
 
 <p align="right">
