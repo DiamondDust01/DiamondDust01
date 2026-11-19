@@ -44,11 +44,16 @@ def collect():
         page += 1
     return totals
 
-def render(totals, t):
+STRINGS = {
+    "pt": dict(title="LINGUAGENS MAIS USADAS", other="Outras", alt="Linguagens mais usadas", desc="Proporção de bytes por linguagem nos repositórios públicos de {u}.", suffix=""),
+    "en": dict(title="MOST USED LANGUAGES", other="Others", alt="Most used languages", desc="Share of bytes per language across the public repositories of {u}.", suffix="-en"),
+}
+
+def render(totals, t, L):
     items = sorted(totals.items(), key=lambda kv: -kv[1])
     top, rest = items[:TOP], sum(v for _, v in items[TOP:])
     if rest:
-        top.append(("Outras", rest))
+        top.append((L["other"], rest))
     total = sum(v for _, v in top) or 1
     W, bar_x, bar_w = 400, 24, 352
     rows = (len(top) + 1) // 2
@@ -59,12 +64,12 @@ def render(totals, t):
         segs.append((lang, x, w))
         x += w
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" role="img" aria-labelledby="title description">',
-           '  <title id="title">Linguagens mais usadas</title>',
-           f'  <desc id="description">Proporção de bytes por linguagem nos repositórios públicos de {escape(USER)}.</desc>',
+           '  <title id="title">{L["alt"]}</title>',
+           f'  <desc id="description">{L["desc"].format(u=escape(USER))}</desc>',
            f'  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{t["bg1"]}"/><stop offset="1" stop-color="{t["bg2"]}"/></linearGradient>'
            f'<clipPath id="bar"><rect x="{bar_x}" y="58" width="{bar_w}" height="10" rx="5"/></clipPath></defs>',
            f'  <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="14" fill="url(#bg)" stroke="{t["stroke"]}" stroke-width="2"/>',
-           f'  <text x="24" y="38" fill="{t["title"]}" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.5">LINGUAGENS MAIS USADAS</text>',
+           f'  <text x="24" y="38" fill="{t["title"]}" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.5">{L["title"]}</text>',
            f'  <rect x="{bar_x}" y="58" width="{bar_w}" height="10" rx="5" fill="{t["track"]}"/>',
            '  <g clip-path="url(#bar)">']
     for lang, sx, w in segs:
@@ -85,9 +90,10 @@ def main():
     if not totals:
         sys.exit("Nenhuma linguagem encontrada; abortando para não sobrescrever os SVGs.")
     os.makedirs(OUT, exist_ok=True)
-    for name, t in THEMES.items():
-        with open(os.path.join(OUT, f"top-langs-{name}.svg"), "w", encoding="utf-8") as f:
-            f.write(render(totals, t))
+    for L in STRINGS.values():
+        for name, t in THEMES.items():
+            with open(os.path.join(OUT, f"top-langs-{name}{L['suffix']}.svg"), "w", encoding="utf-8") as f:
+                f.write(render(totals, t, L))
     print({k: v for k, v in sorted(totals.items(), key=lambda kv: -kv[1])[:TOP]})
 
 if __name__ == "__main__":
