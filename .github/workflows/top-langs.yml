@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/top-langs-dark.svg assets/top-langs-light.svg assets/rank.json
+          git add assets/top-langs-dark.svg assets/top-langs-light.svg assets/top-langs-dark-en.svg assets/top-langs-light-en.svg assets/rank.json
           git diff --cached --quiet || git commit -m "chore: update top languages cards"
           git push

@@ -1,5 +1,9 @@
 <div align="center">
 
+🇧🇷 Português · [🇺🇸 English](README.en.md)
+
+<br>
+
 <img width="100%" src="https://raw.githubusercontent.com/DiamondDust01/DiamondDust01/main/assets/profile-moon.svg" alt="Cabeçalho de Diego de Carvalho com ondas azuis e roxas e lua cheia" />
 
 <br>
