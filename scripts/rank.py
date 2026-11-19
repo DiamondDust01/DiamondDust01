@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Calcula o rank do perfil (mesma fórmula do github-readme-stats) e grava assets/rank.json
 no formato do shields.io endpoint."""
-import json, os, sys, urllib.request
+import datetime, json, os, sys, urllib.request
 
 USER = os.environ.get("GH_USER", "DiamondDust01")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
@@ -35,6 +35,18 @@ def gql(after=None):
         sys.exit(f"Erro GraphQL: {data['errors']}")
     return data["data"]["user"]
 
+def commits_last_year():
+    """Conta commits do usuário no último ano pela busca de commits (repos públicos, branch padrão).
+
+    Usado no lugar de contributionsCollection, que retorna 0 quando as contribuições do perfil
+    não são computadas pelo GitHub (ex.: contribuições privadas)."""
+    since = (datetime.date.today() - datetime.timedelta(days=365)).isoformat()
+    q = f"author:{USER}+author-date:>={since}"
+    req = urllib.request.Request(f"https://api.github.com/search/commits?q={q}&per_page=1", headers={
+        "Authorization": f"Bearer {TOKEN}", "Accept": "application/vnd.github+json", "User-Agent": "rank-badge"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.load(r)["total_count"]
+
 def stats():
     user, stars, after = None, 0, None
     while True:
@@ -45,7 +57,7 @@ def stats():
             break
         after = repos["pageInfo"]["endCursor"]
     c = user["contributionsCollection"]
-    return dict(commits=c["totalCommitContributions"], reviews=c["totalPullRequestReviewContributions"],
+    return dict(commits=max(c["totalCommitContributions"], commits_last_year()), reviews=c["totalPullRequestReviewContributions"],
                 prs=user["pullRequests"]["totalCount"], issues=user["issues"]["totalCount"],
                 stars=stars, followers=user["followers"]["totalCount"])
 
