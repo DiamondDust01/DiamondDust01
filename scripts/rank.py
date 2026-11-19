@@ -6,6 +6,7 @@ import datetime, json, os, sys, urllib.request
 USER = os.environ.get("GH_USER", "DiamondDust01")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 OUT = os.environ.get("OUT_FILE", "assets/rank.json")
+RANK_TOKEN = os.environ.get("RANK_TOKEN", "")  # PAT opcional: enxerga repos privados/da org e conta todas as branches
 
 QUERY = """
 query($login: String!, $after: String) {
@@ -35,6 +36,52 @@ def gql(after=None):
         sys.exit(f"Erro GraphQL: {data['errors']}")
     return data["data"]["user"]
 
+def gql_raw(query, variables, token):
+    body = json.dumps({"query": query, "variables": variables}).encode()
+    req = urllib.request.Request("https://api.github.com/graphql", data=body, headers={
+        "Authorization": f"Bearer {token}", "User-Agent": "rank-badge", "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        data = json.load(r)
+    if "errors" in data:
+        sys.exit(f"Erro GraphQL: {data['errors']}")
+    return data["data"]
+
+HISTORY = "history(first: 100, since: $since, author: {id: $uid}, after: %s) { nodes { oid } pageInfo { hasNextPage endCursor } }"
+REPOS_Q = """
+query($since: GitTimestamp!, $uid: ID!, $after: String) {
+  viewer { repositories(first: 20, after: $after, isFork: false, ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]) {
+    nodes { nameWithOwner refs(refPrefix: "refs/heads/", first: 100) { nodes { name target { ... on Commit { %s } } } } }
+    pageInfo { hasNextPage endCursor }
+  } }
+}""" % (HISTORY % "null")
+BRANCH_Q = """
+query($owner: String!, $name: String!, $ref: String!, $since: GitTimestamp!, $uid: ID!, $after: String) {
+  repository(owner: $owner, name: $name) { ref(qualifiedName: $ref) { target { ... on Commit { %s } } } }
+}""" % (HISTORY % "$after")
+
+def commits_all_branches(token):
+    """Commits únicos (por SHA) do último ano em todas as branches de todos os repos visíveis ao token."""
+    uid = gql_raw("{ viewer { id } }", {}, token)["viewer"]["id"]
+    since = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=365)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    shas, after = set(), None
+    while True:
+        page = gql_raw(REPOS_Q, {"since": since, "uid": uid, "after": after}, token)["viewer"]["repositories"]
+        for repo in page["nodes"]:
+            owner, name = repo["nameWithOwner"].split("/")
+            for br in repo["refs"]["nodes"]:
+                hist = (br["target"] or {}).get("history")
+                while hist:
+                    shas.update(n["oid"] for n in hist["nodes"])
+                    if not hist["pageInfo"]["hasNextPage"]:
+                        break
+                    d = gql_raw(BRANCH_Q, {"owner": owner, "name": name, "ref": "refs/heads/" + br["name"], "since": since,
+                                           "uid": uid, "after": hist["pageInfo"]["endCursor"]}, token)
+                    hist = d["repository"]["ref"]["target"]["history"]
+        if not page["pageInfo"]["hasNextPage"]:
+            break
+        after = page["pageInfo"]["endCursor"]
+    return len(shas)
+
 def commits_last_year():
     """Conta commits do usuário no último ano pela busca de commits (repos públicos, branch padrão).
 
@@ -57,7 +104,7 @@ def stats():
             break
         after = repos["pageInfo"]["endCursor"]
     c = user["contributionsCollection"]
-    return dict(commits=max(c["totalCommitContributions"], commits_last_year()), reviews=c["totalPullRequestReviewContributions"],
+    return dict(commits=max(c["totalCommitContributions"], commits_all_branches(RANK_TOKEN) if RANK_TOKEN else commits_last_year()), reviews=c["totalPullRequestReviewContributions"],
                 prs=user["pullRequests"]["totalCount"], issues=user["issues"]["totalCount"],
                 stars=stars, followers=user["followers"]["totalCount"])
 

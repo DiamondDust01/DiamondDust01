@@ -18,6 +18,7 @@ jobs:
         env:
           GH_USER: DiamondDust01
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RANK_TOKEN: ${{ secrets.RANK_TOKEN }}  # opcional
         run: |
           python scripts/top_langs.py
           python scripts/rank.py
