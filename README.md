@@ -63,6 +63,8 @@
 <div align="center">
 
 <p>
+  <img src="https://img.shields.io/badge/RANK-A%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Rank A+ no GitHub" />
+  &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDiamondDust01&amp;query=%24.public_repos&amp;label=REPOSIT%C3%93RIOS%20P%C3%9ABLICOS&amp;color=2563EB&amp;style=for-the-badge" alt="Contagem dinâmica de repositórios públicos do GitHub" />
 </p>
 
